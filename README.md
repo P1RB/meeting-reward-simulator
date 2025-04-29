@@ -1,4 +1,4 @@
-
+![App Preview](preview.png)
 
 # Meeting Reward Simulator
 
@@ -22,6 +22,5 @@ A simple Streamlit app to simulate tiered rewards for event organisers and atten
 1. Clone this repository or download the files.
 2. Install Streamlit if you don't have it:
    ```bash
-   pip install streamlit ```
-
-    ![App Preview](preview.png)
+   pip install streamlit
+   
